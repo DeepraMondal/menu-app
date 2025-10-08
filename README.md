@@ -101,6 +101,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Disclaimer
-
-This is a demonstration application for educational purposes. It is not intended for production use without further security audits and enhancements.
